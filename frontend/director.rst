@@ -47,4 +47,4 @@ director.js
       </body>
     </html>
 
-效果预览： `GitHub Pages <http://angelcrunchdev.github.io/z42-doc/director>`_
+效果预览： `GitHub Pages <http://angelcrunchdev.github.io/z42-doc/frontend/director/>`_
